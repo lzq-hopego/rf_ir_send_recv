@@ -87,26 +87,30 @@ C -.连接上WiFi.-> G[指示灯短亮3次]
 ## 关于外壳
 - 外壳是自己画的不太好看，爆炸图效果如下，但是满足嘉立创3D免费打印条件，直接~~白嫖~~免费
 
-![模型爆炸图.png](https://image.lceda.cn/oshwhub/pullImage/67ee330f0d074c8e8a32c193d466b95f.png)
+![模型爆炸图.png](./img/模型爆炸图.png)
 - 螺丝M1.6*14mm
 - 螺母滚花铜螺母M1.6\*3\*2.5
 
 ## 效果图
 - ESP8266配置页效果图
 
-![esp8266配网页面mqtt配置页面.jpg](https://image.lceda.cn/oshwhub/pullImage/dade774a6c674a3482fa5879d3242aa0.jpg)
+![esp8266配网页面mqtt配置页面.jpg](./img/esp8266配网页面mqtt配置页面.jpg)
 
 > 这里的服务器端口建议用默认的1883端口，MQTT主题要和软件的主题配置一致，同时建议使用用户名密码方式验证，你可以在EMQX中创建认证数据库时选择这一项
 
 - 手机端效果图
 
-![智慧网关手机app端1.jpg](https://image.lceda.cn/oshwhub/pullImage/0d328dfe649248349eeeccc2c4decd96.jpg)
+![智慧网关手机app端.jpg](./img/智慧网关手机app端.jpg)
 
 > 注意MQTT配置的主题和ESP8266配置的主题一致即可
 
 - 焊接成品图
 
-![焊接完成图.jpg](https://image.lceda.cn/oshwhub/pullImage/b796f7c286a441e0a46ad7bccccb15ec.jpg)
+![焊接完成图.jpg](./img/焊接完成图.jpg)
+
+
+
+
 
 ## 开源声明
 1. 本工具仅用于个人学习与研究，禁止任何商业用途（包括但不限于盈利性服务、企业内部使用等）
